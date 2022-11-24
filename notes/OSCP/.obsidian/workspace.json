@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "3845491a83cb807c",
+    "type": "split",
+    "children": [
+      {
+        "id": "687088992efcf58d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "085798e3caab898d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Topics/07 Active Information Gathering/7.2 Port Scanning.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e736cb3366bed4cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "499e076b86f7ddb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6529a770ea7bd197",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e8083f97aa175d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b67cba0c885006b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb5116987dcafdb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8bb99a3a5fd5677",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ceeb099e2fb7bfb8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 Topics/07 Active Information Gathering/7.2 Port Scanning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "95c24a7272447c6b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 Topics/07 Active Information Gathering/7.2 Port Scanning.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a6e2d3b52b7c989",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cb9a9d958396f7e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 Topics/07 Active Information Gathering/7.2 Port Scanning.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "085798e3caab898d",
+  "lastOpenFiles": [
+    "01 Topics/06 Passive Information Gathering/attachments/Pasted image 20221122192117.png",
+    "01 Topics/07 Active Information Gathering/7.2 Port Scanning.md",
+    "01 Topics/07 Active Information Gathering/7.1 DNS Enumeration.md",
+    "01 Topics/07 Active Information Gathering/Pasted image 20221124104651.png.md",
+    "01 Topics/07 Active Information Gathering/7.6 SNMP Enumeration.md",
+    "01 Topics/03 Command Line Fun/3. 2 Piping and Redirection.md",
+    "01 Topics/03 Command Line Fun/attachments/Pasted image 20221124105011.png",
+    "01 Topics/03 Command Line Fun/attachments/Pasted image 20221122163137.png",
+    "02 Topical Exercises/3.2 Piping and Redirection - Topical Exercise.md",
+    "01 Topics/06 Passive Information Gathering/6.3 WHOIS Enumeration.md"
+  ]
+}
