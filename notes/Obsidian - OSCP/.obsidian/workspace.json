@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Topics/07 Active Information Gathering/7.2 Port Scanning.md",
+                "file": "01 Topics/07 Active Information Gathering/7.3 SMB Enumeration.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Topics/07 Active Information Gathering/7.2 Port Scanning.md",
+                "file": "01 Topics/07 Active Information Gathering/7.3 SMB Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Topics/07 Active Information Gathering/7.2 Port Scanning.md",
+                "file": "01 Topics/07 Active Information Gathering/7.3 SMB Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Topics/07 Active Information Gathering/7.2 Port Scanning.md"
+                "file": "01 Topics/07 Active Information Gathering/7.3 SMB Enumeration.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "085798e3caab898d",
   "lastOpenFiles": [
-    "01 Topics/06 Passive Information Gathering/attachments/Pasted image 20221122192117.png",
     "01 Topics/07 Active Information Gathering/7.2 Port Scanning.md",
+    "01 Topics/07 Active Information Gathering/7.3 SMB Enumeration.md",
+    "01 Topics/07 Active Information Gathering/Untitled.md",
     "01 Topics/07 Active Information Gathering/7.1 DNS Enumeration.md",
-    "01 Topics/07 Active Information Gathering/Pasted image 20221124104651.png.md",
-    "01 Topics/07 Active Information Gathering/7.6 SNMP Enumeration.md",
+    "01 Topics/07 Active Information Gathering/attachments/Pasted image 20221201225348.png",
+    "01 Topics/07 Active Information Gathering/attachments/Pasted image 20221201225250.png",
+    "01 Topics/07 Active Information Gathering/attachments/Pasted image 20221201225225.png",
     "01 Topics/03 Command Line Fun/3. 2 Piping and Redirection.md",
-    "01 Topics/03 Command Line Fun/attachments/Pasted image 20221124105011.png",
-    "01 Topics/03 Command Line Fun/attachments/Pasted image 20221122163137.png",
-    "02 Topical Exercises/3.2 Piping and Redirection - Topical Exercise.md",
-    "01 Topics/06 Passive Information Gathering/6.3 WHOIS Enumeration.md"
+    "01 Topics/06 Passive Information Gathering/attachments/Pasted image 20221122192117.png",
+    "01 Topics/07 Active Information Gathering/Pasted image 20221124104651.png.md"
   ]
 }
