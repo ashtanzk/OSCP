@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Topics/24 Penetration Test Breakdown/24.1 Public Network Enumeration.md",
+                "file": "01 Topics/18 Privilege Escalation/18.1 Information Gathering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Topics/24 Penetration Test Breakdown/24.1 Public Network Enumeration.md",
+                "file": "01 Topics/18 Privilege Escalation/18.1 Information Gathering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Topics/24 Penetration Test Breakdown/24.1 Public Network Enumeration.md"
+                "file": "01 Topics/18 Privilege Escalation/18.1 Information Gathering.md"
               }
             }
           }
