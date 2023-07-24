@@ -8,46 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f49a5a2bd747c2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Topics/18 Privilege Escalation/18.1 Information Gathering.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6be569912396e7df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Topics/18 Privilege Escalation/18.2 Windows Privilege Escalation Examples.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72e9e5967bbc0183",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Topics/18 Privilege Escalation/18.1 Information Gathering.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4aff647b28278b19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/Offensive Pentesting/Vulnversity.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56001a611b81dd4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -59,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Topics/18 Privilege Escalation/18.1 Information Gathering.md",
+                "file": "TryHackMe/Offensive Pentesting/Vulnversity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Topics/18 Privilege Escalation/18.1 Information Gathering.md",
+                "file": "TryHackMe/Offensive Pentesting/Vulnversity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Topics/18 Privilege Escalation/18.1 Information Gathering.md"
+                "file": "TryHackMe/Offensive Pentesting/Vulnversity.md"
               }
             }
           }
@@ -195,18 +168,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6529a770ea7bd197",
+  "active": "4aff647b28278b19",
   "lastOpenFiles": [
+    "02 Notes/Gobuster.md",
+    "TryHackMe/Offensive Pentesting/Vulnversity.md",
+    "TryHackMe/VPN.md",
+    "TryHackMe/Offensive Pentesting/attachments/Pasted image 20230724230411.png",
+    "TryHackMe/Offensive Pentesting/attachments",
+    "01 Topics/24 Penetration Test Breakdown/24.1 Public Network Enumeration.md",
+    "01 Topics/24 Penetration Test Breakdown/24.2 Web Application (WordPress).md",
+    "01 Topics/07 Active Information Gathering/7.2 Port Scanning.md",
+    "TryHackMe/VMWare Workstation 16 Pro.md",
+    "01 Topics/24 Penetration Test Breakdown/Untitled.md",
+    "TryHackMe/Offensive Pentesting",
+    "TryHackMe",
+    "01 Topics/18 Privilege Escalation/18.1 Information Gathering.md",
     "Untitled.canvas",
     "01 Topics/24 Penetration Test Breakdown/Untitled.canvas",
-    "01 Topics/24 Penetration Test Breakdown/24.2 Web Application (WordPress).md",
-    "01 Topics/24 Penetration Test Breakdown/24.1 Public Network Enumeration.md",
-    "01 Topics/18 Privilege Escalation/18.1 Information Gathering.md",
     "01 Topics/18 Privilege Escalation/18.2 Windows Privilege Escalation Examples.md",
     "01 Topics/18 Privilege Escalation/18.3 Linux Privilege Escalation Examples.md",
     "01 Topics/18 Privilege Escalation/Users.md",
     "01 Topics/14 Locating Public Exploits/14.2 Searching for Exploits.md",
-    "02 Notes/Bind & Reverse Shells.md",
-    "01 Topics/07 Active Information Gathering/7.2 Port Scanning.md"
+    "02 Notes/Bind & Reverse Shells.md"
   ]
 }
